@@ -5,9 +5,10 @@ This program is used to extract frames from the video.
 The input files：
 
 input_dir/
-         video_files/
+
+          video_files/
          
-                    vidoe_name
+                     vidoe_name
                     
          .../
          
